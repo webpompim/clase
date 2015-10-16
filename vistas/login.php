@@ -8,7 +8,7 @@
             
             *{
                 margin: 0;
-                padding: 0,
+                padding: 0;
             }   
             body{
                 background: gray;
@@ -17,8 +17,8 @@
             header{
                 width: 100%;
              }
-             header from {
-                 
+             from{
+                 border: #fff;
              }
  
         </style>
