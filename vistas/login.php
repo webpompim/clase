@@ -1,36 +1,18 @@
 <!DOCTYPE html>
-
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
-        <style>
-            
-            *{
-                margin: 0;
-                padding: 0;
-            }   
-            body{
-                background: gray;
-                font-family: arial;
-            }
-            header{
-                width: 100%;
-             }
-             from{
-                 border: #fff;
-             }
- 
-        </style>
+        <link rel="stylesheet" href="estilo.css"/>
+        <title>hola</title>
     </head>
     <body>
-        <header> 
-            <form action="login.php" method="POST">
-Usuario: <input type="text" name="user" size="15">
-Contraseña: <input type="password" name="pass" size="15">
-
-<input type="submit" value="Login">
-        
+        <header>
+            <from
         </header>
     </body>
 </html>
