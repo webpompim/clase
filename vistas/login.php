@@ -13,8 +13,8 @@ and open the template in the editor.
     <body>
         <div id="login">
            <form action="login.php" method="POST">
-Usuario: <input type="text" name="user" size="15">
-Contraseña: <input type="password" name="pass" size="15">
+<input type="text" name="user" size="15">
+<input type="password" name="pass" size="15">
 
 <input type="submit" value="Login">
         </div>
